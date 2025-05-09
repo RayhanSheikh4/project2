@@ -4,7 +4,7 @@ Shery.makeMagnet(".magnet");
 
 // 2. Hover media circle with video previews
 Shery.hoverWithMediaCircle(".hvr", {
-  images: ["/eye.jpg", "/cute.jpg", "/eye2.jpg"],
+  images: ["./img/eye.jpg", "./img/cute.jpg", "./img/eye2.jpg"],
 });
 
 // 3. Scroll-synced Shery image effect
